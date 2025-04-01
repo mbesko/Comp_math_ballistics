@@ -107,4 +107,4 @@
 Сохраните код в файл (например, `main.cpp`) и выполните в терминале:
 
 ```bash
-g++ main.cpp -o main -std=c++17 -lgmp -lm -O0
+g++ float multiplication.cpp -o float multiplication -std=c++17 -lgmp -lm -O0
